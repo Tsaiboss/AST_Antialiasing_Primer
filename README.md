@@ -91,3 +91,13 @@ scope及binding的常用方法和属性介绍
 用浏览器执行AST插件
 
 [AST实战|如何用浏览器执行你写的AST插件?](https://mp.weixin.qq.com/s/5WcUWSkDEXQj6ctwINNdfw)
+
+
+# 交流群 （加我好友拉你进群）。
+
+
+![Test](https://github.com/Tsaiboss/ControlFlow/blob/main/QR%20code/%E5%BE%AE%E4%BF%A1%E5%8F%B7.jpg) 
+
+个人微信:523176585
+
+Email : 523176585@qq.com
